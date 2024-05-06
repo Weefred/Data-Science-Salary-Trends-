@@ -6,7 +6,7 @@
 
 **Excel Dashboard: [Click to view](https://github.com/Weefred/Data_Science_Salary_Trends/blob/main/Data_Science_Salaries_Dashboard.png)**
 
-**Excel Dashboard: Click to interact**
+**Excel Dashboard: [Click to interact](https://github.com/Weefred/Data_Science_Salary_Trends/commit/9e133fae161c60354ed454361e5b8cbc4d3f6073)**
 
 ## About this project
 
