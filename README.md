@@ -1,20 +1,22 @@
-# Data_Science_Salary_Trends
+<div align='center'> <h1> DATA SCIENCE SALARY TRENDS </div> 
 
 #### Tools used: Excel
 
-**Dataset used**
+**[Dataset used](https://www.kaggle.com/datasets/abhinavshaw09/data-science-job-salaries-2024)**
 
-**Excel Dashboard: Click to view**
+**Excel Dashboard: [Click to view](https://github.com/Weefred/Data_Science_Salary_Trends/blob/main/Data_Science_Salaries_Dashboard.png)**
 
 **Excel Dashboard: Click to interact**
 
-### About this project
+## About this project
 
-**Goals**
+### Goals
 
 - Understand salary trends among various data science careers.
   
 - Assist individuals to make informed decisions about their professional paths.
+
+ ![image](https://github.com/Weefred/Data_Science_Salary_Trends/blob/main/Data_Science_Salaries_Dashboard.png)
   
 ### Objective Questions
 
@@ -28,13 +30,13 @@
    
 5.	Are there geographic salary variations for data science roles based on company location?
 
-### Methodology
+## Methodology
 
 **Data Cleaning and Transformation**: No cleaning was required. Abbreviated columns were replaced with their full values and the appropriate data types were used.
 
 **Salary forecast**: A forecast sheet was created to illustrate salary trends over the next five years.
 
-### Key findings
+## Key findings
 
 1.	There is a slight decrease in salary in 2021, a significant increase in 2022, and a steady rise until 2023, followed by a slight decrease in 2024. Forecasted salaries from 2025 to 2029 show consistent annual growth, indicating a positive outlook for increases. 
 
@@ -50,7 +52,7 @@
 
 5.	High salaries are found in countries like the Quatar, Israel, US, New Zealand, and Canada.
 
-### Considerations for Job Seekers/Professionals.
+## Considerations for Job Seekers/Professionals.
 
 1.	Given the anticipated growth in salaries, job seekers can prioritize honing skills that align with high-demand areas such as data analysis, machine learning, and cloud computing.
 
